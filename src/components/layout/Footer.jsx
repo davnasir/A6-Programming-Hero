@@ -47,6 +47,21 @@ const Footer = () => {
                 </nav>
 
             </footer>
+            <div className='border-t-1 border-white bg-black px-10 pb-10 pt-5'>
+                
+                <div className='text-[#fafafa] flex justify-between'>
+                    <div>
+                        <p>© 2026 Digitools. All rights reserved.</p>
+                    </div>
+                    <div>
+                        <ul className='flex gap-8'>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms of Service</a></li>
+                            <li><a href="#">Cookies</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
     );
 };
