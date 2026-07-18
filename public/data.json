@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "badge": "Popular",
+    "title": "Automation Toolkit",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    "price": "$79",
+    "duration": "/Mo",
+    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "features": [
+      "50+ automations",
+      "API access",
+      "Custom workflows"
+    ]
+  },
+  {
+    "id": 2,
+    "badge": "Starter",
+    "title": "Starter Package",
+    "description": "Perfect for individuals and small businesses getting started.",
+    "price": "$29",
+    "duration": "/Mo",
+    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "features": [
+      "10+ automations",
+      "Basic support",
+      "Cloud storage"
+    ]
+  },
+  {
+    "id": 3,
+    "badge": "Best Value",
+    "title": "Business Suite",
+    "description": "Boost your team's productivity with advanced business tools.",
+    "price": "$99",
+    "duration": "/Mo",
+    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "features": [
+      "Unlimited projects",
+      "Team collaboration",
+      "Priority support"
+    ]
+  },
+  {
+    "id": 4,
+    "badge": "Premium",
+    "title": "Marketing Toolkit",
+    "description": "Powerful marketing automation tools for growing businesses.",
+    "price": "$59",
+    "duration": "/Mo",
+    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "features": [
+      "Email automation",
+      "Social media tools",
+      "Analytics dashboard"
+    ]
+  },
+  {
+    "id": 5,
+    "badge": "Pro",
+    "title": "Developer Tools",
+    "description": "Everything developers need to build and deploy applications.",
+    "price": "$89",
+    "duration": "/Mo",
+    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "features": [
+      "API integrations",
+      "Developer support",
+      "Deployment tools"
+    ]
+  },
+  {
+    "id": 6,
+    "badge": "Enterprise",
+    "title": "Enterprise Solution",
+    "description": "Comprehensive solutions for large organizations and enterprises.",
+    "price": "$149",
+    "duration": "/Mo",
+    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "features": [
+      "Dedicated manager",
+      "24/7 support",
+      "Enterprise security"
+    ]
+  }
+]
