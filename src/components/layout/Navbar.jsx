@@ -1,7 +1,7 @@
 import React from 'react';
 import { CiShoppingCart } from 'react-icons/ci';
 
-const Navbar = () => {
+const Navbar = ({ selecteds }) => {
     return (
         <div>
             <div className="navbar bg-base-100 drop-shadow-sm">
@@ -33,11 +33,16 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end gap-2">
                     <span className='flex items-center gap-2 font-bold text-xl'>
-                        <CiShoppingCart/>
+                        <button className="btn btn-ghost btn-circle">
+                            <div className="indicator">
+                                <CiShoppingCart className='text-2xl' />
+                                <span className="badge badge-xs badge-primary indicator-item">{selecteds.length}</span>
+                            </div>
+                        </button>
                         <h4>Login</h4>
                     </span>
                     <button className='btn btn-primary rounded-full'>Get Started </button>
-                   
+
                 </div>
             </div>
         </div>

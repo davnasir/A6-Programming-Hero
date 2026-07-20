@@ -47,7 +47,7 @@ const Footer = () => {
                 </nav>
 
             </footer>
-            <div className='border-t-1 border-white bg-black px-10 pb-10 pt-5'>
+            <div className='border-t-2 border-white bg-black px-10 pb-10 pt-5'>
                 
                 <div className='text-[#fafafa] flex justify-between'>
                     <div>

@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "badge": "Popular",
+    "badge": "Most Of Popular",
     "title": "Automation Toolkit",
     "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
     "price": "$79",
     "duration": "/Mo",
-    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "Image": "https://i.ibb.co.com/N6xGtBRG/design-tool.png",
     "features": [
-      "50+ automations",
+      "55+ automations",
       "API access",
       "Custom workflows"
     ]
@@ -20,7 +20,7 @@
     "description": "Perfect for individuals and small businesses getting started.",
     "price": "$29",
     "duration": "/Mo",
-    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "Image": "https://i.ibb.co.com/BHbDWv1d/operation.png",
     "features": [
       "10+ automations",
       "Basic support",
@@ -34,7 +34,7 @@
     "description": "Boost your team's productivity with advanced business tools.",
     "price": "$99",
     "duration": "/Mo",
-    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "Image": "https://i.ibb.co.com/bMkZv0d5/portfolio.png",
     "features": [
       "Unlimited projects",
       "Team collaboration",
@@ -48,7 +48,7 @@
     "description": "Powerful marketing automation tools for growing businesses.",
     "price": "$59",
     "duration": "/Mo",
-    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "Image": "https://i.ibb.co.com/5grJWKPC/shopping-cart.png",
     "features": [
       "Email automation",
       "Social media tools",
@@ -62,7 +62,7 @@
     "description": "Everything developers need to build and deploy applications.",
     "price": "$89",
     "duration": "/Mo",
-    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "Image": "https://i.ibb.co.com/1GjXH5CW/social-media.png",
     "features": [
       "API integrations",
       "Developer support",
@@ -75,8 +75,8 @@
     "title": "Enterprise Solution",
     "description": "Comprehensive solutions for large organizations and enterprises.",
     "price": "$149",
-    "duration": "/Mo",
-    "Image": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+    "duration": "/Year",
+    "Image": "https://i.ibb.co.com/dJLvs59h/writing-2327400-1.png",
     "features": [
       "Dedicated manager",
       "24/7 support",
